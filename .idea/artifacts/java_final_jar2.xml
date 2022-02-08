@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_final:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_final_jar2</output-path>
+    <root id="archive" name="java_final.jar">
+      <element id="module-output" name="java_final" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/commons-pool2-2.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/commons-dbcp2-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/mysql_connector_java_5.1.36_bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/miglayout-core-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/miglayout-core-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/miglayout-swing-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/miglayout-core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/miglayout-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/project/lib/miglayout-swing-javadoc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
