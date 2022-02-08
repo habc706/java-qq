@@ -1,6 +1,6 @@
 
 # java-qq
-这是java的一个大作业，用纯java写建议的qq聊天
+这是java的一个大作业，用纯java写简易的qq聊天
 
 ## 使用方法：
 
@@ -17,3 +17,5 @@ java.net.SocketException: Connection reset异常，重启服务端后可以正�
 
 
 <img src="https://hjbjwdk.oss-cn-guangzhou.aliyuncs.com/imges/828761d3e8d68e119d18cf27f33661b.png"  width="500px">
+
+
